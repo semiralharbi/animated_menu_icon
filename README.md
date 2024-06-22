@@ -2,4 +2,5 @@
 
 A simple animation of menu/drawer icon using custom paint.
 
-[![Watch the video]](recording.mov)
+[![Watch the gif]](main.gif)
+
